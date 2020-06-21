@@ -1,2 +1,2 @@
-# Book-app
-little book app from net ninja yt tutorial
+# JavaScript-DOM-Tutorial
+All course files for the JavaScrip DOM Tutorials on The Net Ninja YouTube channel.
